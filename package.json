@@ -1,0 +1,31 @@
+{
+  "name": "fe12-wk-3-egor-trubilo",
+  "version": "1.0.0",
+  "description": "TMS learning project",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Egor-Trubilo/FE12-wk-3-Egor-Trubilo.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Egor Trubilo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Egor-Trubilo/FE12-wk-3-Egor-Trubilo/issues"
+  },
+  "homepage": "https://github.com/Egor-Trubilo/FE12-wk-3-Egor-Trubilo#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.1"
+  }
+}
