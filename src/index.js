@@ -1,5 +1,5 @@
-import "./styles/style.css";
 import "./styles/index.scss";
+import ReactDOM from "react";
+import React from "react";
 import summ from "./modules/summ";
-
-console.log('Hello World!, summ( a: 12, b: 2)');
+import card from "./modules/card";
